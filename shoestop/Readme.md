@@ -2,7 +2,7 @@
 
 Welcome to the E-Commerce React App! This project is a web application built using React that simulates an online store.
 
-## Table of Contents
+
 
 
 
@@ -16,15 +16,16 @@ These instructions will help you set up a local development instance of the E-Co
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/yasminjeelani/Hackathon-Application.git
+
 cd Hackathon-Application/shoestop
 
-## Install Dependencies
+### Install Dependencies
 
 npm install
 
-Install the project dependencies using npm install.
+## Install the project dependencies using npm install.
 
 npm start
 
